@@ -1,5 +1,6 @@
 body{
     font-family: 'Supermercado One', cursive;
+    background-image: url(Background.jpg.jpg);
 }
 h1{
     font-size: 50px;
@@ -10,11 +11,11 @@ h1{
 section{
     display: flex;
 }
-.half-withd{
+.half-width{
     width: 50%;
-    padding: 2px;
+    padding: 2%;
 }
-.half-withd img{
+.half-width img{
     width:90%
 }
 .link-button{
